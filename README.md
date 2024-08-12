@@ -1,75 +1,88 @@
-# Welcome to Krishna's Digital World 🌐
+<h1 align="center">Hello, I am Krishna Bishowkarma 🐱</h1>
 
-## Introduction
-Welcome to my GitHub Profile! I'm **Krishna**, a CS student passionate about learning and exploring various programming languages and technologies.
+  <p align="center">
+  <a href="https://github.com/krishnabishowkarma">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=I+am+from+Nepal;Computer+Science+Student;Passionate+about+learning+new+technology+and+tools" alt="typing text" />
+  </a>
+</p>
 
-Feel free to explore my projects and resources. Contributions, feedback, and suggestions are always welcome! 🚀
+</p>
 
-## Table of Contents
-1. [Projects](#projects)
-2. [Resources](#resources)
-3. [Interests](#interests)
-4. [Skills](#skills)
-5. [Learnings](#learnings)
-6. [Contact](#contact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishnaBishowkarma&label=Profile%20Views&color=00FF00&style=flat" alt="KrishnaBishowkarma" />
+</p>
+
+---
+<p align="center">
+</p>
+
+<p align="center">
+  🔭 I’m currently working on Java Projects and Web Applications
+</p>
+
+<p align="center">
+   🌱 I’m currently learning Spring Boot, ReactJS, and Microservices
+</p>
+
+<p align="center">
+  🎥 I enjoy creating videos and exploring video editing techniques.
+</p>
 
 ---
 
-## Projects 🛠️ <a name="projects"></a>
-### College Project
-- [GitHub Repository](https://github.com/KrishnaBishowkarma/CollegeProject)
-  - Description: A college project showcasing web development skills using HTML, CSS, and JavaScript.
-  
-#### How to Run the College Project
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/KrishnaBishowkarma/CollegeProject.git
-   ```
-
-2. **Navigate to the Project Directory**
-   ```bash
-   cd CollegeProject
-   ```
-
-3. **Open the Website**
-   - Open `index.html` in your web browser.
----
-
-## Resources 📚 <a name="resources"></a>
-- Books
-- Online courses
-- Tutorials
-- Blogs
-
----
-
-## Interests 🌟 <a name="interests"></a>
-- .Net
-- Java
-- Microservices
-- React
-- Video Editing
-- UI/UX
+<h3 align="center">Languages, Frameworks, and Tools :</h3>
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=geAxqWV0aAaI&format=png&color=000000" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" alt="python" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="vscode" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="intellij" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="github" width="40" height="40"/> </a>
+  <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=sFFBQN8kzSOS&format=png&color=000000" alt="vmware" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=gXoJoyTtYXFg&format=png&color=000000" alt="windows" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=dwfuFrQfNSOo&format=png&color=000000" alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=e57Y1CnsOasB&format=png&color=000000" alt="premiere pro" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=XJqAuI8VfoCe&format=png&color=000000" alt="after effects" width="40" height="40"/> </a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=40604&format=png&color=000000" alt="davinci resolve" width="40" height="40"/> </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" alt="blender" width="40" height="40"/> </a>
+  <a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=KLekjbJy6rjh&format=png&color=000000" alt="audacity" width="40" height="40"/> </a>
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=uVERmCBZZACL&format=png&color=000000" alt="notion" width="40" height="40"/> </a>
+  <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=kikR2jIn6485&format=png&color=000000" alt="slack" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma" width="40" height="40"/> </a>
+</p>
 
 ---
 
-## Skills 💻 <a name="skills"></a>
-- Programming Languages: C, C++, C#, Java
-- Web Development: HTML, CSS, JavaScript
-- Tools: Premiere Pro, Photoshop
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/krishnabishowkarma/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com/krishnaxpeace" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
+</div>
 
 ---
 
-## Learnings 📖 <a name="learnings"></a>
-- [Java](https://github.com/KrishnaBishowkarma/Java)
-- [C#](https://github.com/KrishnaBishowkarma/vpcs)
+<h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishnaBishowkarma&show_icons=true&locale=en&layout=compact" alt="KrishnaBishowkarma" width="400" height="200"/>
+</p>
 
----
 
-## Contact 📧 <a name="contact"></a>
-- LinkedIn: [Krishna Bishowkarma](https://www.linkedin.com/in/krishnabishowkarma/)
-- Twitter: [Krishna Bishowkarma](https://twitter.com/krishnaxpeace)
-- GitHub: [Krishna Bishowkarma](https://www.github.com/KrishnaBishowkarma)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaBishowkarma&show_icons=true&locale=en" alt="KrishnaBishowkarma" width="400" height="200"/>
+</p>
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaBishowkarma&" alt="KrishnaBishowkarma" width="400" height="200"/>
+</p>
