@@ -29,8 +29,8 @@
 </p>
 
 ---
-
 <h3 align="center">Languages, Frameworks, and Tools :</h3>
+<hr>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" width="40" height="40"/> </a>
@@ -59,14 +59,14 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma" width="40" height="40"/> </a>
 </p>
 
----
+<hr>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/krishnabishowkarma/" target="_blank">
+  <a href="https://www.linkedin.com/in/krishnabishowkarma/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/krishnaxpeace" target="_blank">
+  <a href="https://twitter.com/krishnaxpeace" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
 </div>
