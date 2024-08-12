@@ -2,7 +2,7 @@
 
   <p align="center">
   <a href="https://github.com/krishnabishowkarma">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=I+am+from+Nepal;Computer+Science+Student;Passionate+about+learning+new+technology+and+tools" alt="typing text" />
+    <img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=I+am+from+Nepal;Computer+Science+Student;Passionate+about+learning+new+technology" alt="typing text" />
   </a>
 </p>
 
