@@ -70,3 +70,6 @@ Feel free to explore my projects and resources. Contributions, feedback, and sug
 - LinkedIn: [Krishna Bishowkarma](https://www.linkedin.com/in/krishnabishowkarma/)
 - Twitter: [Krishna Bishowkarma](https://twitter.com/krishnaxpeace)
 - GitHub: [Krishna Bishowkarma](https://www.github.com/KrishnaBishowkarma)
+
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
