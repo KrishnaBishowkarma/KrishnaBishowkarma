@@ -12,9 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=KrishnaBishowkarma&label=Profile%20Views&color=00FF00&style=flat" alt="KrishnaBishowkarma" />
 </p>
 
----
-<p align="center">
-</p>
+<hr>
 
 <p align="center">
   🔭 I’m currently working on Java Projects and Web Applications
@@ -28,9 +26,9 @@
   🎥 I enjoy creating videos and exploring video editing techniques.
 </p>
 
----
-<h3 align="center">Languages, Frameworks, and Tools :</h3>
 <hr>
+
+<h3 align="center">Languages, Frameworks, and Tools :</h3>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" width="40" height="40"/> </a>
