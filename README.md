@@ -92,6 +92,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaBishowkarma&" alt="KrishnaBishowkarma" width="400" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=KrishnaBishowkarma&limit=5&theme=default&combine_all_yearly_contributions=true" alt="KrishnaBishowkarma" width="400" height="220"/>
-</p>
+<hr>
