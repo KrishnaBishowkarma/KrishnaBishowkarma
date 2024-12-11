@@ -12,6 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=KrishnaBishowkarma&label=Profile%20Views&color=00FF00&style=flat" alt="KrishnaBishowkarma" />
 </p>
 
+<hr>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishnaBishowkarma/KrishnaBishowkarma/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishnaBishowkarma/KrishnaBishowkarma/output/github-snake.svg" />
@@ -88,4 +90,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaBishowkarma&" alt="KrishnaBishowkarma" width="400" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=KrishnaBishowkarma&limit=5&theme=default&combine_all_yearly_contributions=true" alt="KrishnaBishowkarma" width="400" height="220"/>
 </p>
