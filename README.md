@@ -20,7 +20,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/KrishnaBishowkarma/KrishnaBishowkarma/output/github-snake.svg" />
 </picture>
 
-<hr>
+---
 
 <p align="center">
   🔭 I’m currently working on Java Projects and Web Applications
@@ -34,7 +34,7 @@
   🎥 I enjoy creating videos and exploring video editing techniques.
 </p>
 
-<hr>
+---
 
 <h3 align="center">Languages, Frameworks, and Tools :</h3>
 <p align="center"> 
@@ -65,7 +65,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<hr>
+---
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -92,4 +92,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaBishowkarma&" alt="KrishnaBishowkarma" width="400" height="200"/>
 </p>
 
-<hr>
