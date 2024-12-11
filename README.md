@@ -12,6 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=KrishnaBishowkarma&label=Profile%20Views&color=00FF00&style=flat" alt="KrishnaBishowkarma" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishnaBishowkarma/KrishnaBishowkarma/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishnaBishowkarma/KrishnaBishowkarma/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KrishnaBishowkarma/KrishnaBishowkarma/output/github-snake.svg" />
+</picture>
+
 <hr>
 
 <p align="center">
@@ -75,7 +81,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishnaBishowkarma&show_icons=true&locale=en&layout=compact" alt="KrishnaBishowkarma" width="400" height="200"/>
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KrishnaBishowkarma&show_icons=true&locale=en" alt="KrishnaBishowkarma" width="400" height="200"/>
