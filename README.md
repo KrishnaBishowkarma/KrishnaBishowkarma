@@ -37,7 +37,8 @@
 ---
 
 <h3 align="center">Languages, Frameworks, and Tools :</h3>
-<p align="center"> 
+<div align="center">
+  <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript" width="40" height="40"/> </a>
@@ -48,6 +49,9 @@
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000" alt="java" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="spring-boot" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" alt="python" width="40" height="40"/> </a>
+  </p>
+
+  <p>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="assets/PostgreSQL_logo.svg" alt="PostgreSQL" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="vscode" width="40" height="40"/> </a>
@@ -63,11 +67,15 @@
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=XJqAuI8VfoCe&format=png&color=000000" alt="after effects" width="40" height="40"/> </a>
   <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=40604&format=png&color=000000" alt="davinci resolve" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" alt="blender" width="40" height="40"/> </a>
+  </p>
+
+  <p>
   <a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=KLekjbJy6rjh&format=png&color=000000" alt="audacity" width="40" height="40"/> </a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="assets/notion.png" alt="notion" width="40" height="40"/> </a>
   <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=kikR2jIn6485&format=png&color=000000" alt="slack" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma" width="40" height="40"/> </a>
-</p>
+  </p>
+</div>
 
 ---
 
@@ -98,4 +106,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaBishowkarma&" alt="KrishnaBishowkarma" width="400" height="200"/>
 </p>
-
