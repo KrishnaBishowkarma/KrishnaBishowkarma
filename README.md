@@ -37,7 +37,7 @@
 ---
 
 <h3 align="center">Languages, Frameworks, and Tools :</h3>
-<p align="center">
+<div align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript" width="40" height="40"/></a>
@@ -67,7 +67,7 @@
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="assets/notion.png" alt="notion" width="40" height="40"/></a>
   <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=kikR2jIn6485&format=png&color=000000" alt="slack" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma" width="40" height="40"/></a>
-</p>
+</div>
 
 ---
 
