@@ -62,7 +62,7 @@
 <td align="center"><a href="https://www.notion.so/" target="_blank"><img src="assets/notion.png" width="40" height="40" alt="Notion"/></a></td>
 <td align="center"><a href="https://slack.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=kikR2jIn6485&format=png&color=000000" width="40" height="40" alt="Slack"/></a></td>
 <td align="center"><a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="40" height="40" alt="Figma"/></a></td>
-<td align="center"></td>
+<td align="center"><a href="https://affinity.serif.com/" target="_blank"><img src="https://cdn.brandfetch.io/idL15hEPrF/w/200/h/200/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1762500074309" width="40" height="40" alt="Affinity"/></a></td>
 </tr></table>
 
 ---
